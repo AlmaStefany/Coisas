@@ -1,6 +1,6 @@
 # Coisas 
 
-    nesse projeto quero estudar coisas diversar sem seguir uma linha. 
+    Nesse projeto quero estudar coisas diversar sem seguir uma linha. 
 
 
 ##  Cursos usados:  
