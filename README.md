@@ -3,8 +3,10 @@
     Nesse projeto quero estudar coisas diversar sem seguir uma linha. 
 
 
-##  Cursos usados:  
+###  Cursos usados:  
 
-        Orientação a objetos - Alura.
-        Curso em video - yt.
+    Curso em video - yt.
 
+### Cursos que ainda quero ver:
+
+    Orientação a obejtos - Alura    
