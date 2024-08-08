@@ -1,6 +1,5 @@
 ### só pra refrescar a memoria ###
 
-
 nome = input("Oi, qual seu nome? ")
 
 print("Seja vem vinda, {}!" .format(nome))
