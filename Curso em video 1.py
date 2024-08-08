@@ -9,4 +9,3 @@ dia = input("Que dia vc nasceu? ")
 mes = input("Que mes vc nasceu? ")
 ano = input("Que ano vc nasceu? ")
 print(nome,"vc nasceu no dia",dia, "de",mes, "de",ano, "certo? ")
-
