@@ -16,4 +16,3 @@ print("É alfanumerico? " ,a.isalnum())  #verifica se é alfanumerico
 print("Esta em letras maiúculas? ", a.isupper())  #verifica se esta totoalemnte em letras maiúculas
 print("Esta em letras minúsculass? ", a.islower()) #verifica se esta totalemnte em letras minúsculas
 print("Esta capitalizada? ", a.istitle()) #verifica se há letras tanto em maiúculas quanto minúsculas
-
