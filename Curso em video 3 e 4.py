@@ -18,3 +18,8 @@ print("Esta capitalizada? ", a.istitle()) #verifica se há letras tanto em maiú
 
 
 
+
+
+
+
+
