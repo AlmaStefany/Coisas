@@ -23,7 +23,9 @@ print("Prazer em te conhecer {:>20}!".format(teste)) #essa função faz alinhame
 # o sinal ^ alinha ao centro de 20 espaços
 
 n1 = int(input("um valor: "))
-n2 = int(input("outro valor"))
+n2 = int(input("outro valor: "))
+print("a soma é {}: ".format(n1+n2), end="")#esse end impede a quebra de linha, os 2 prints saem na mesma linha
+print("teste pra impedir a quebra de linha")
+print("teste pra quebrar a linha ")#basta colocar \n no inicio e no final doq vc quer q esteja em outra linha exemplo: Olá \n td bem? \n
 
-
-#parei nos 25:59 de video.
+'''Exercicios 005'''
